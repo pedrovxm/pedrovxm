@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pedrovxm@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YW9gsMKtLqUVhz_Dt3BIcDMEyFQ8ahhkYMZPLf1AsdE/edit](https://docs.google.com/document/d/1YW9gsMKtLqUVhz_Dt3BIcDMEyFQ8ahhkYMZPLf1AsdE/edit)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o_2B_CUB98s-e_zK-zXY7Ewp0EwVeae2/view?usp=sharing](https://docs.google.com/document/d/1YW9gsMKtLqUVhz_Dt3BIcDMEyFQ8ahhkYMZPLf1AsdE/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
