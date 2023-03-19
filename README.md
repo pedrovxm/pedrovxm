@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Victor</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 - 🔭 I’m currently working on [Data Analytics - A Estratégia de YouTube do Novo Mercado](https://app.powerbi.com/view?r=eyJrIjoiNDRiNzBiY2YtNTRiNS00M2FmLTgxZTItOTYxMTIzNGY4MjA4IiwidCI6IjgzNGUxZmZhLWMwOGQtNDhlYS05YWVmLTRlMDdmZWRhMjEwNiJ9)
 
